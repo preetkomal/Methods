@@ -29,9 +29,6 @@ public class MethodProject {
         int num2 = num4.nextInt();
 
 
-
-
-
         switch (value) {
             case 1:
                 sum(num1,num2);
@@ -83,10 +80,6 @@ public class MethodProject {
 
 
 
-
-
-
-
         int mul;
         mul = num1*num2;
         System.out.println("mul is" + mul);
@@ -105,14 +98,14 @@ public class MethodProject {
     public static void mod(int num1,int num2) {
 
 
-
-
         int mod;
         mod = num1%num2;
         System.out.println("mod is" + mod);
     }
 
     }
+
+
 
 
 
