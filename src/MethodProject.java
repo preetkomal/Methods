@@ -20,6 +20,7 @@ public class MethodProject {
         System.out.println("press 4 for div");
         System.out.println("press 5 for mod");
         System.out.println("press 6 for exit");
+        System.out.println("abc");
 
 
         Scanner scanner = new Scanner(System.in);
