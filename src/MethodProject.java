@@ -72,6 +72,8 @@ public class MethodProject {
                sum = num1+num2;
 
         System.out.println("sum is" + sum);
+           System.out.println("sum is" + sum);
+        
 
 
     }public static void sub(int num1,int num2) {
